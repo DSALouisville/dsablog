@@ -3,7 +3,7 @@ dest: _site
 # Site
 title: DSA Louisville
 description: The Democratic Socialists of America in Louisville and Southern Indiana
-url: http://54.202.169.226/
+url: http://dsalouisville.org
 baseurl: /
 logo: dsa-logo.png                                       # Site logo
 locale: en_US
