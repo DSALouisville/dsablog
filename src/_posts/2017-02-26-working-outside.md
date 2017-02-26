@@ -20,3 +20,5 @@ This will include Democratic primaries, even though the Democrats have decided t
 This movement will have to be anti-racist, anti-misogynist, pro-immigrant, and anti-capitalist. The hard work will be building a social and political base that can ultimately win elections. We are not there yet, but through difficult organizing and outreach work we can rally a winning coalition around our ideas and eventually our candidates. The Democratic Party will stand in our way at first, but to preserve their own survival they will eventually realize our movement cannot be ignored. At that point we may capture their leadership positions and institutional resources. But if that never happens, we will undertake the hard work of building a left coalition party that answers to working people instead of corporations.
 
 All of this is the work that the Democratic Socialists of America is undertaking. If you know we can build a better future, please join us.
+
+_Ready to find out more? Visit our [contact form](https://goo.gl/forms/nxvaToAMKUX87EXI3) and we will be in touch shortly!_
