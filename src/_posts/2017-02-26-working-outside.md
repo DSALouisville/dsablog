@@ -2,7 +2,7 @@
 layout: post
 title: Working Outside the Party
 author: Nick Conder
-excerpt: What are we talking about when we say the left has to work outside the Democratic Party? It's about building a movement not confined to a single political institution
+excerpt: What are we talking about when we say the left has to work outside the Democratic Party? It's about building a movement not confined to a single political institution.
 date: 2017-01-15 14:07:35
 tags:
 ---
