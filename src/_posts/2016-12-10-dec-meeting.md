@@ -17,13 +17,13 @@ We began with Sarah leading a pair-share activity having everybody talk with a p
 about what brought them to the meeting. The responses were extremely on point.
 
 Donald Trump has us shook
-![](/images/trumpcards.JPG)
+![](/images/trumpcards.jpg)
 
 We are not here for slacktivism
-![](/images/slackcard.JPG)
+![](/images/slackcard.jpg)
 
 We are able to imagine better worlds
-![](/images/bettercard.JPG)
+![](/images/bettercard.jpg)
 
 
 Jody spoke to us about the values, strategy, and politics of DSA.  Much of what he talked
@@ -43,13 +43,13 @@ A conversation on organizing and base building
 ![]( /images/sarah.jpg )
 
 A conversation on grassroots electoral politics
-![]( /images/josh.JPG)
+![]( /images/josh.jpg)
 
 A conversation on direct action strategy
 ![]( /images/nick.jpg )
 
 A conversation on political education and building cadre
-![]( /images/chris.JPG)
+![]( /images/chris.jpg)
 (yes, there was an adorable baby at the meeting 😊)
 
 We took a look at next steps:
