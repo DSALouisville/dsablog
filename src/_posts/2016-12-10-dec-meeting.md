@@ -17,13 +17,13 @@ We began with Sarah leading a pair-share activity having everybody talk with a p
 about what brought them to the meeting. The responses were extremely on point.
 
 Donald Trump has us shook
-![]( /images/trumpcards.JPG)
+![](/images/trumpcards.JPG)
 
 We are not here for slacktivism
-![]( /images/slackcard.JPG)
+![](/images/slackcard.JPG)
 
 We are able to imagine better worlds
-![]( /images/bettercard.JPG)
+![](/images/bettercard.JPG)
 
 
 Jody spoke to us about the values, strategy, and politics of DSA.  Much of what he talked
