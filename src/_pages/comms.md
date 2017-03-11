@@ -37,12 +37,7 @@ permalink: /comms.html
 
   Description:
 
-  * Noting events supported by dsa, and other chapter history
-  * Converting prospective members to full members
-  * Scheduling/supporting one on ones with new/prospective members and experienced members
-  * Checking in with committees on regular calls between full meetings
-  * Scheduling periodic group video calls for chapter
-  * Periodic surveying of chapter for preferred timing of events, interests, opportunities for improvement, etc
+This committee will engage existing and new/prospective membership, plug them into DSA chapter work, support committees by connecting them to resources or other partner committees, and find ways to best facilitate communication among the chapter between meetings. This committee will also work to preserve chapter history of membership trends, inter-organizational partnerships, and events.
 
 ---
 
@@ -64,3 +59,7 @@ permalink: /comms.html
 
   Description: This committee will be tasked with monitoring the political activities, through open and legal means, relevant politicians at the local, state, and national level. It will also monitor pending legislation and relevant news stories. It will do this with the purpose of providing actionable items for DSA Louisville to exert it's influence upon. The Committee will provide briefings and some analysis. It will collaborate with other committees and DSA Louisville as a whole to ensure timely distribution of actionable items.
 
+---
+
+_For more information, complete our [contact form](https://goo.gl/forms/DstPoP4eGE0Dxnfm2) and an organizer will get
+with you soon!
